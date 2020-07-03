@@ -7,6 +7,6 @@ e=str(int(s[1])+g[1])
 print(s)
 print(''.join(d+e+':'+s[3:n-2]))
 #s=s.replace(s[0],str(d))
-#print(s)
+print(s)
 #s=s.replace(s[1],str(e))
 
