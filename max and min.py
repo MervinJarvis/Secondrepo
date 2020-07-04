@@ -9,5 +9,4 @@ for i in range(len(arr)):
     l.append(a)
     print(l)
     a=0
-print(min(l),max(l))
-#miniMaxSum(arr)
+print("The min and max will be displayed",min(l),max(l))
